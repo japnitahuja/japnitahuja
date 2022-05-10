@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a summer intern @ Telus, Canada
-- 🌱 I’m currently pursuing an CS degree @ Ontario Tech, Canada
+- 🌱 I’m pursuing an CS degree @ Ontario Tech, Canada
 - 💬 Ask me about my published ML research
 - 📫 How to reach me: japnit.ahuja@gmail.com
 - 😄 Pronouns: she/her
