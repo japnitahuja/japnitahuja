@@ -5,4 +5,4 @@
 - 💬 Ask me about my published ML research
 - 📫 How to reach me: japnit.ahuja@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: A run a non-profit, The Girl Code, that makes the superpower of coding accessible for girls from remote and rural areas in India
+- ⚡ Fun fact: I run a non-profit, The Girl Code, that makes the superpower of coding accessible for girls from remote and rural areas in India
