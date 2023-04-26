@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I worked as a summer intern @ Telus, Canada
+- 🔭 Summer intern @ Telus, Canada
 - 🌱 I’m pursuing an CS degree @ Ontario Tech, Canada
 - 💬 Ask me about my published ML research
 - 📫 How to reach me: japnit.ahuja@gmail.com
