@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Japnit!
 
-- 🔭 Summer intern @ Telus, Canada
+- 🔭 Software Engineer @ Coursera, Canada
 - 🌱 I’m pursuing an CS degree @ Ontario Tech, Canada
 - 📫 How to reach me: japnit.ahuja@gmail.com
 - 😄 Pronouns: she/her
