@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Japnit!
 
 - 🔭 Software Engineer @ Coursera, Canada
-- 🌱 I’m pursuing an CS degree @ Ontario Tech, Canada
+- 🌱 I’m pursuing a CS degree @ Ontario Tech, Canada
 - 📫 How to reach me: japnit.ahuja@gmail.com
 - 😄 Pronouns: she/her
 - 🎤 Ask me about my TEDx Talks
