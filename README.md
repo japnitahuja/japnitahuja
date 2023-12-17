@@ -9,7 +9,7 @@
 
 #### Languages and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,matlab,r,tensorflow,cpp,flask,react,nodejs,redux,express,bootstrap,html,css,js,sass&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,react,flutter,cpp,flask,nodejs,redux,express,bootstrap,matlab,r,tensorflow,html,css,sass,flutter&perline=10)](https://skillicons.dev)
 
 #### Platforms and Tools
 
