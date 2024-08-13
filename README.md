@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Japnit!
 
-- 🔭 Building a tech startup: https://www.makingautoeasy.com/
+- 🔭 Building a tech startup: [Making Auto Easy](https://www.makingautoeasy.com/)
 - 📫 How to reach me: japnit.ahuja@gmail.com
 - 😄 Pronouns: she/her
 - 🎤 Ask me about my TEDx Talks
