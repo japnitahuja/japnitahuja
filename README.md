@@ -1,7 +1,6 @@
 ## Hi there 👋 I am Japnit!
 
-- 🔭 Software Engineer @ Coursera, Canada
-- 🌱 I’m pursuing a CS degree @ Ontario Tech, Canada
+- 🔭 Building a tech startup: https://www.makingautoeasy.com/
 - 📫 How to reach me: japnit.ahuja@gmail.com
 - 😄 Pronouns: she/her
 - 🎤 Ask me about my TEDx Talks
